@@ -7,5 +7,5 @@
 //Neste caso rustc teste.rs
 // .\[nome do arquivo sem extensão] para rodar o arquivo
 fn main () {
-    println!("Bom dia");
+    println!("Hello World!");
 }
